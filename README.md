@@ -4,8 +4,8 @@ TL;DR
 -----
 Upload a PDF, ask natural-language questions, and get concise answers with page-level citations. Built with Streamlit (UI), LangChain (orchestration), FAISS (vector store) and OpenAI/HuggingFace for embeddings & LLM.
 
-Live demo: [add demo link here]  
-Source code: [add repo link here]
+Live demo: link  
+Source code: link
 
 Why this project
 ----------------
@@ -34,7 +34,7 @@ Quick start (local)
 -------------------
 1. Clone this repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Pridhvi2297/AI-Document-Chat
 cd ai-document-chat
 ```
 
@@ -145,7 +145,5 @@ Credits
 
 Get in touch
 ------------
-- GitHub: [add repo link here]  
+- GitHub: [[add repo link here] ](https://github.com/Pridhvi2297/AI-Document-Chat) 
 - LinkedIn: @Pridhvi2297
-
-Enjoy building — and don’t forget to capture a short GIF for LinkedIn! 🚀
